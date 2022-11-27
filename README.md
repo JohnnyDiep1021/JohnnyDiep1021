@@ -1,4 +1,4 @@
-Hi 👋 My name is Ly Bao Long Diep
+Hi there👋, Welcome to Ly Bao Long Diep's profile
 =================================
 
 Fullstack Developer
@@ -7,7 +7,7 @@ Fullstack Developer
 * 🌍  I'm based in Vietnam, Canada
 * 🖥️  See my portfolio at [JohnnyDiep](http://johnny-diep.netlify.app/)
 * ✉️  You can contact me at [johnnydiep1121@gmail.com](mailto:johnnydiep1121@gmail.com)
-* 🚀  Personal project showcase: <a href="https://netflix-clone-app-e2815.web.app/login" target="_blank" rel="noreferrer">Netflix Clone App</a>, [Netflix Dashboard App](https://netflix-dashboard-app.web.app/login), [E-Saving App](https://personal-budget-f770f.web.app/auth)
+* 🚀  Personal project showcase: [Netflix Clone App](https://netflix-clone-app-e2815.web.app/login), [Netflix Dashboard App](https://netflix-dashboard-app.web.app/login), [E-Saving App](https://personal-budget-f770f.web.app/auth)
 * 🧠  Using technologies: MongoDB, ExpressJs, SQL, NodeJs, React, SASS
 * ⚡  I am an agile learner, a proactive and responsive collaborator, loving to establish wider career networking.
 
