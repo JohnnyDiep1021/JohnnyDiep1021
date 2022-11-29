@@ -7,7 +7,7 @@ Fullstack Developer
 * 🌍  I'm based in Vietnam, Canada
 * 🖥️  See my portfolio at [JohnnyDiep](http://johnny-diep.netlify.app/)
 * ✉️  You can contact me at [johnnydiep1121@gmail.com](mailto:johnnydiep1121@gmail.com)
-* 🚀  Personal project showcase: [Netflix Clone App](https://netflix-lover-jd.web.app/), [Netflix Dashboard App](https://netflix-dashboard-app.web.app/login), [E-Saving App](https://personal-budget-f770f.web.app/auth)
+* 🚀  Personal project showcase: [Netflix Clone App](https://movie-lover-f16b5.web.app/), [Netflix Dashboard App](https://netflix-dashboard-app.web.app/login), [E-Saving App](https://personal-budget-f770f.web.app/auth)
 * 🧠  Using technologies: Javascript, Python, C++, Jupyter Notebook, MongoDB, ExpressJs, SQL, NodeJs, React, SASS
 * ⚡  I am an agile learner, a proactive and responsive collaborator, loving to establish wider career networking.
 
