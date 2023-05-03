@@ -1,4 +1,4 @@
-Hi there👋! Welcome to Ly Bao Long Diep's Github profile
+Hi there👋! Welcome to my Github profile
 =================================
 
 Fullstack Developer
