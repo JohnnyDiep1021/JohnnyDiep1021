@@ -8,8 +8,8 @@ Fullstack Developer
 * 🖥️  Check out my portfolio at [JohnnyDiep](http://johnny-diep.netlify.app/)
 * ✉️  You can contact me at [johnnydiep1121@gmail.com](mailto:johnnydiep1121@gmail.com)
 * 🚀  Personal project showcase: [Netflix Clone App](https://authentic-movie-lover.web.app/), [Netflix Dashboard App](https://netflix-dashboard-app.web.app/login), [E-Saving App](https://personal-budget-f770f.web.app/auth)
-* 🧠  Using technologies: Javascript, Typescript, Laravel, PHP, Python, C++, Jupyter Notebook, MongoDB, ExpressJs, SQL/ MySQL/ MS SQL, NodeJs, React, SASS
-* ⚡  I am an agile learner, a proactive and responsive collaborator, loving to establish wider career networking.
+* 🧠  Using technologies: ReactJS, ExpressJS, AngularJS, JavaScript, TypeScript, NodeJS, Laravel, PHP, Python, C++, Jupyter Notebook, MongoDB, SQL/ MySQL/ MS SQL, SASS
+* ⚡  Software Engineer (4 YOE) • Product Manager • Project/SM Assistant | Research → Solutions → Delivery | Multi-tenant SaaS @ Scale (247+ Retailers, 6M+ Customers, US/UK/CA/IL)
 
 ### Skills
 
