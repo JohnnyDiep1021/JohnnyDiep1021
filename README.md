@@ -1,7 +1,7 @@
-Hi there👋! Welcome to my Github profile
+Hi there👋! Welcome to my GitHub profile
 =================================
 
-Mid-junior Software Engineer
+Mid-junior Software Engineer (4 YOE)
 -------------------
 
 * 🌍  I'm based in Vietnam (graduated in Canada)
